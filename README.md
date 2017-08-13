@@ -14,4 +14,4 @@ cc TicTac.c
 - Select a number between 1 and 9(Other than number with `X`)
 - Keep playing until there is a winner or the game is draw
 
-Made by [Ethan Coleman](ethanriley@mac.com)
+Made by [Ethan Coleman](mailto:ethanriley@mac.com)
